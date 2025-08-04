@@ -25,6 +25,7 @@
   --color-magenta: var(--theme-magenta);
   --color-cyan: var(--theme-cyan);
   --default-font-family: var(--theme-font), monospace;
+  --container-3xl: 992px;
 }
 
 header {
