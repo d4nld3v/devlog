@@ -4,4 +4,4 @@ avatarImage:
   alt: 'My avatar'
 ---
 
-Thanks for reading my blog post! Feel free to check out my other posts or contact me via the social links in the footer.
+Thanks for reading this post. And if you’re thinking of doing something similar, I encourage you to go for it. Owning your own digital space is more valuable than it seems.
