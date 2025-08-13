@@ -45,17 +45,15 @@ Este blog está construido con tecnologías modernas que también uso en mi trab
 
 ### Desarrollo Web
 
-- Frameworks frontend (React, Astro, Vue)
+- Frameworks frontend
 - APIs y servicios backend
 - Bases de datos y modelado de datos
-- DevOps y deployment
 
 ### Arquitectura y Patrones
 
 - Diseño de software escalable
 - Patrones de diseño
 - Clean Architecture
-- Microservicios vs Monolitos
 
 ### Herramientas y Productividad
 
@@ -120,10 +118,9 @@ Este es mi blog personal, pero si encuentras algún error tipográfico, problema
 
 Si algún post te resultó útil o quieres discutir sobre algún tema:
 
-- 🐙 **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
-- 💼 **LinkedIn**: [Tu Nombre](https://linkedin.com/in/tu-perfil)
-- 🐦 **Twitter**: [@tu-handle](https://twitter.com/tu-handle)
-- 📧 **Email**: tu-email@ejemplo.com
+- 🐙 **GitHub**: [@d4nld3v](https://github.com/d4nld3v)
+- 💼 **LinkedIn**: [Daniel Enriquez Baena](https://www.linkedin.com/in/daniel-enr%C3%ADquez-baena-aa1347214/)
+- 📧 **Email**: danielseoandweb@outlook.com
 
 ## 📜 Licencia
 
